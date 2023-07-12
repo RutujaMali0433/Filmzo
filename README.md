@@ -11,7 +11,7 @@ HomePage: It has a fixed navbar with options, a search button, and sign-out icon
 ![Screenshot (205)](https://github.com/RutujaMali0433/Filmzo/assets/120778805/b753fda8-d509-45b8-bbe0-b0cddc731dc6)
 
 
-Sign-Out Page: The user can sign out by clicking on the icon on the top-right side
+Sign-in Page: The user can sign out by clicking on the icon on the top-right side
 
 
 ![Screenshot (207)](https://github.com/RutujaMali0433/Filmzo/assets/120778805/bd47282c-4edf-47b5-8906-a5473ed2cfee)
@@ -20,7 +20,7 @@ Sign-Out Page: The user can sign out by clicking on the icon on the top-right si
 ![Screenshot (208)](https://github.com/RutujaMali0433/Filmzo/assets/120778805/c04d40c6-95d0-4ca7-aaba-c43ad7b3e56a)
 
 
-Sign-in Page:  The user can safely sign in with Email and password
+Log in Page:  The user can safely sign in with Email and password
 
 
 ![Screenshot (206)](https://github.com/RutujaMali0433/Filmzo/assets/120778805/ecbed12a-dbfe-48ed-a163-48719328425a)
