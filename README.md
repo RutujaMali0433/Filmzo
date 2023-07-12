@@ -2,7 +2,7 @@
 Filmzo: Movie and Entertainment App
 
 #Summary --
-Filmzo: This movie application is created using advanced react, redux, and firebase, which utilizes redux compute to sequentially retrieve movie data from the Tmdb API.  Features include user signup and sign-in, an add-to-list option for each user, trailers, dynamically generated movies and Web series, and an interactive UI. There are four different pages, some using protected routes with auth listeners. Firebase handles user authentication. 
+Filmzo: This movie application is created using advanced react, redux, and firebase, which utilizes redux compute to sequentially retrieve movie data from the Tmdb API. Features include user signup and sign-in, an add-to-list option for each user, trailers, dynamically generated movies and Web series, and an interactive UI. There are four different pages, some using protected routes with auth listeners. Firebase handles user authentication.
 
 #Preview --
 HomePage: It has a fixed navbar with options, a search button, and sign-out icons. It has different categories of movies and Web series. It plays a trailer when hovering over the movie.
@@ -41,6 +41,12 @@ My List Page: This component helps the user to add and remove movies and web ser
 ![Screenshot (216)](https://github.com/RutujaMali0433/Filmzo/assets/120778805/8f8e97ab-1ee2-4adb-870d-549dfd9a2a9e)
 
 
+
+
+Plans for Expansion: 
+A search bar to search through the TMDB database of over 30000 movies.
+Add user profile data, profile pictures, and personal data setup.
+Create a carousel by using jquery for the homepage.
 
 
 
